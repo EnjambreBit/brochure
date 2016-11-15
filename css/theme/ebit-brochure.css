@@ -42,6 +42,8 @@
 
 .red {
 	color: #d40000; }
+.black {
+	color: #333; }
 
 
 .ebit-red-panel,
@@ -74,3 +76,8 @@
 .ebit-gray-panel img{
 	width: 80%;
 }
+
+.ebit-red-panel ul,
+.ebit-gray-panel ul {
+	list-style-type: none;
+	}
