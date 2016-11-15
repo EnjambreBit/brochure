@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow');
+
+.reveal {
+  font-family: "Archivo Narrow", Helvetica, sans-serif;
+  font-size: 38px;
+  font-weight: normal;
+  color: #fff; }
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  margin: 0 0 20px 0;
+  color: #4d4d4d;
+  font-family: "Archivo Narrow", Helvetica, sans-serif;
+  font-weight: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-transform: none;
+  text-shadow: none;
+  word-wrap: break-word; }
+
+.reveal h1 {
+  font-size: 1.0em; }
+
+.reveal h2 {
+  font-size: 0.8em; }
+
+.reveal h3 {
+  font-size: 0.6em; }
+
+.reveal h4 {
+  font-size: 0.5em; }
+
+.reveal h1 {
+  text-shadow: none; }
+
+.red {
+	color: #d40000; }
+
+
+.ebit-red-panel,
+.ebit-gray-panel {
+	text-align: center;
+	color: #fff;
+	margin-top: 20px;
+}
+
+.ebit-red-panel h1,
+.ebit-red-panel h2,
+.ebit-gray-panel h1,
+.ebit-gray-panel h2 {
+	margin-left: 20px;
+	color: #fff;
+}
+
+.ebit-red-panel p,
+.ebit-red-panel ul,
+.ebit-gray-panel p,
+.ebit-gray-panel ul {
+	font-size: 0.6em;
+	margin-left: 20px; }
+
+.ebit-gray-panel p,
+.ebit-gray-panel ul {
+	color: #333;
+}
+
+.ebit-gray-panel img{
+	width: 80%;
+}
